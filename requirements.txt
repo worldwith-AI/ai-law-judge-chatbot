@@ -1,0 +1,14 @@
+streamlit==1.32.2
+requests==2.31.0
+beautifulsoup4==4.12.3
+
+langchain==0.2.16
+langchain-core==0.2.38
+langchain-community==0.2.16
+langchain-text-splitters==0.2.4
+
+faiss-cpu==1.8.0
+sentence-transformers==2.6.1
+
+langchain-groq==0.1.9
+python-dotenv==1.0.1
